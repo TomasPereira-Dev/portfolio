@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://www.tomaspereira.com.ar/",
+  "homepage": "/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,11 +12,9 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
+    "gh-pages": "^6.1.0",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5",
     "vite": "^5.0.0"
-  },
-  "dependencies": {
-    "gh-pages": "^6.1.0"
   }
 }
