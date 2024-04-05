@@ -15,7 +15,7 @@ export default {
         'custom-subtitle-lg': "55ch"
       },
       backgroundImage: {
-        'custom-bg': "url('./public/nnnoise.svg')"
+        'custom-bg': "url('./nnnoise.svg')"
       }
     },
   },
