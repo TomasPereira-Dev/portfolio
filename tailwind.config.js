@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'sans': "'Noto Sans JP', sans-serif"
+        'sans': "'Noto Sans JP', sans-serif",
+        'serif': "'Crimson Text', serif"
       },
     },
   },
